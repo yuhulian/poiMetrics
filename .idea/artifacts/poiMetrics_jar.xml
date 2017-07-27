@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="poiMetrics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poiMetrics_jar</output-path>
+    <root id="archive" name="poiMetrics.jar">
+      <element id="module-output" name="poiMetrics" />
+    </root>
+  </artifact>
+</component>
